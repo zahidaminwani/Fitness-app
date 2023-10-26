@@ -68,5 +68,3 @@ firebase.js file it looks like this
     # Follow the reaming steps
     # Download your android apk fro your expo dashboard
 
-#### For more information refer Expo docs 
-https://docs.expo.io/workflow/configuration/
